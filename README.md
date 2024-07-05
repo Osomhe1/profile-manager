@@ -7,7 +7,7 @@ This project is a Profile Manager component built with React, Vite, Tailwind CSS
 To install and run the project locally:
 
 ```sh
-git clone <your-github-repo-url>
+git clone https://github.com/Osomhe1/profile-manager.git
 cd profile-manager
 npm install
 npm run dev
@@ -23,3 +23,4 @@ Responsive design
 
 Notes
 This project uses React hooks for state management and Chakra UI for styling. Tailwind CSS is also integrated for utility-first CSS.
+```
